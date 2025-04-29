@@ -29,7 +29,8 @@ int main() {
 ```
 ## OUTPUT
 		       	
-![image](https://github.com/user-attachments/assets/435e336d-ab94-4f4d-81e3-66c22941ec09)
+![image](https://github.com/user-attachments/assets/f1ebd429-15d1-4e90-8b8f-f8ac5eb5e193)
+
 
 ## RESULT
 Thus the program to find area of rectangle using pointer has been executed successfully
@@ -127,8 +128,7 @@ int main() {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/f0b72df3-bdbe-47fa-9694-b5e43d90a02a)
-
+![image](https://github.com/user-attachments/assets/435e336d-ab94-4f4d-81e3-66c22941ec09)
 
 ## RESULT
 
